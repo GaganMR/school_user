@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 Nov, 2015, 1:48:11 PM
+    Author     : mohan
+*/
+
+.pad{
+    padding-right: 0.8em;
+}
+
+
+.marg{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.tz-profile-courses {
+    padding:70px 0;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.tz-profile-user {
+    background: #f6f6f6;
+    margin: 65px 0 35px;
+    padding: 0 20px 40px;
+}
+.form-register .form-ds input {
+    margin: 50px 0 0;
+    width: 1em;
+}
+body .tz-joomla-register {
+    padding: 25px 0 6px;
+}
